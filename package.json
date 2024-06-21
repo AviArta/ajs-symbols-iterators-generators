@@ -1,0 +1,21 @@
+{
+  "name": "symbols-iterators-generators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "lint": "eslint"
+  },
+  "author": "AviArta",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "babel-loader": "^9.1.3",
+    "eslint": "^9.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "globals": "^15.6.0",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
